@@ -1,6 +1,12 @@
 ---
-title: Configuring a custom domain for your GitHub Pages site
-intro: 'You can customize the domain name of your {% data variables.product.prodname_pages %} site.'
+title: To my favorite person❤️
+intro: 'Tysm for all that you do
+You mean the world to me
+I love you laughing with you
+Tysm for giving me a place to feel safe
+Tysm for allowing me to express my emoticons and never judging me for them
+Tysm for supporting me
+And finally tysm for just being you'
 redirect_from:
   - /articles/tips-for-configuring-an-a-record-with-your-dns-provider
   - /articles/adding-or-removing-a-custom-domain-for-your-github-pages-site
